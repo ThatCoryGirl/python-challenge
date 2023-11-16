@@ -23,13 +23,14 @@ with open(csvpath, 'r') as csv_file:
     for row in csv_reader:
         months.append(row[0])
         profits_losses.append(int(row[1]))
+        line_count += 1
     
-        if line_count == 0:
+        #if line_count == 0:
             #print(f'Column names are {", ".join(row)}')
-            line_count += 1
-        else:
+            #line_count += 1
+        #else:
            #print(f'\t{row[0]} profits or losses') - don't need
-            line_count += 1
+            #line_count += 1
 print(f'Total Months: {line_count} ')
 
 #Sum as a function
