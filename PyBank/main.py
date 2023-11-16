@@ -75,3 +75,12 @@ for k in range (1, len(months)):
     greatest_decrease_date = months[changes.index(greatest_decrease)+ 1]
 
 print(f"Greatest Decrease in Profits: {greatest_decrease_date} (${greatest_decrease})")
+
+with open("Analysis/csv_analysis.txt" , "w") as csv_analysis:
+    csv_analysis.write("Financial Analysis\n")
+    csv_analysis.write("--------------\n")
+    csv_analysis.write(f'Total Months: {line_count}\n')
+    csv_analysis.write(f"Total: ${total}\n")
+    csv_analysis.write(f"Average Change is {average_change:.2f}\n")
+    csv_analysis.write(f"Greatest Increase in Profits: {greatest_increase_date} (${greatest_increase})\n")
+    csv_analysis.write(f"Greatest Decrease in Profits: {greatest_decrease_date} (${greatest_decrease})\n")
