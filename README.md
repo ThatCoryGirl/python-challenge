@@ -72,7 +72,9 @@ Student collaborations: Amanda Hinkle, Amanda Pigman, and Barb Rupps
 Python Basics: https://www.pythoncheatsheet.org/cheatsheet/basics
 
 Stack OverFlow: https://stackoverflow.com/
+
 Python Library: https://docs.python.org/3/library/
+
 Udemy Python Learning by instructor Green Chameleon Learning
 
 
