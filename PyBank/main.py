@@ -77,6 +77,7 @@ for k in range (1, len(months)):
 
 print(f"Greatest Decrease in Profits: {greatest_decrease_date} (${greatest_decrease})")
 
+#This was created to write all of my findings on a separate txt file
 with open("Analysis/csv_analysis.txt" , "w") as csv_analysis:
     csv_analysis.write("Financial Analysis\n")
     csv_analysis.write("--------------\n")
