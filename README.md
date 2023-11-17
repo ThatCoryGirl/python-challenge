@@ -12,6 +12,8 @@ In this Challenge, you are tasked with creating a Python script to analyze the f
   - The greatest decrease in profits (date and amount) over the entire period
 We were given an image to make sure our results were correct. In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
+-----------------
+
 Financial Analysis
 
 ------------------
@@ -37,6 +39,8 @@ In this Challenge, you are tasked with helping a small, rural town modernize its
   -  The total number of votes each candidate won
   -  The winner of the election based on popular vote
 We were given an image to make sure our results were correct. In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
+------------------------
 
 Election Results
 
