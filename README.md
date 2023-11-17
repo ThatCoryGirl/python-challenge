@@ -65,6 +65,8 @@ Class Instructed by [Othmane Benyoucef](https://www.linkedin.com/in/othmane-beny
 
 Teacher Assistant [Isabella Taylor](https://www.linkedin.com/in/isabellajade/)
 
+Teacher Assistant [Jacob Peroutek](https://www.linkedin.com/in/jperoutek/)
+
 Tutor Limei Hou
 
 Student collaborations: [Amanda Hinkle](https://www.linkedin.com/in/amanda-hinkle-9105941b6/), [Amanda Pigman](https://www.linkedin.com/in/amanda-pigman-904558227/), and [Barb Rupps](https://www.linkedin.com/in/barbrupps/)
