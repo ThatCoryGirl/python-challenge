@@ -41,7 +41,7 @@ def fixPercent(num):
 for i in range(len(voter_counts)):
     vote_percentage.append(voter_counts[i] / total_votes)
 
-#I am calculating the winner with the most votes************Not working
+#I am calculating the winner with the most votes
 for j in range(len(voter_counts)):
     if voter_counts[j] > winner_count:
         winner_count = voter_counts[j]
